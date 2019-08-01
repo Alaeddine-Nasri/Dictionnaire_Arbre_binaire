@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1564601266 source:c:\users\dell\desktop\projetsalsdd\tpalsdd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
